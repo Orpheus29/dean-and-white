@@ -10,6 +10,10 @@
   </a>
 </p>
 
+![image](https://github.com/Orpheus29/dean-and-white/assets/110335429/b3a34060-96d4-4af8-acd9-900bd625f65a)
+
+![image](https://github.com/Orpheus29/dean-and-white/assets/110335429/f61eb201-8f0a-42ef-af66-ad8b7ea52ea3)
+
 <h2 align="center">📌Running your application locally📌</h2>
 
 Feel free to explore the code, make improvements, and contribute to the project.
